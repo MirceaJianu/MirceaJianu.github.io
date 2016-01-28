@@ -3,7 +3,7 @@ $field_name = $_POST['cf_name'];
 $field_email = $_POST['cf_email'];
 $field_message = $_POST['cf_message'];
 
-$mail_to = 'hello@mirceajianu.com';
+$mail_to = 'j.m.mircea@gmail.com';
 $subject = 'Message from a lead '.$field_name;
 
 $body_message = 'From: '.$field_name."\n";
