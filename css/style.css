@@ -1226,6 +1226,14 @@ font-size: 18px;
 @media (min-width: 320px) and (max-width: 480px) {
   #clients .clients-wrap { width: 95% !important;}
   .fotter-quote,.copyright-area {text-align: center;}
+  .btn-hero {
+		display: inline-block;
+		width: 53%;
+		font-size: 12px;
+		height: 10%;
+		padding: 12px;
+		margin: 0;
+	}
 }
 
 
