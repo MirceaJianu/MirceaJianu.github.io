@@ -324,14 +324,20 @@ hr {
 	opacity: .4;
 }
 
-.hero-content .btn-hero {
+.hero-content {
+	color: white;
+	font-family: "Raleway", Calibri, Arial, sans-serif;
+	text-align: center;
+	font-weight: bold;
+}
+
+.btn-hero {
 	color: white;
 	font-family: "Raleway", Calibri, Arial, sans-serif;
 	display: block;
 	width: 250px;
 	margin: 60px auto 0;
 	padding: 20px 10px;
-	position: relative;
 	font-size: 1.3em;
 	text-align: center;
 	background-color: #e74c3c;
